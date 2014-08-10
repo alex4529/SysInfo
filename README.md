@@ -3,8 +3,6 @@ Sys-Info
 
 Sys-Info is a simple "Network Status Page". Sys-Info shows the health of your (web)-server
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site] [1]:
-Version
 ----
 
 Beta 0.1
