@@ -3,6 +3,7 @@ Sys-Info
 
 Sys-Info is a simple "Network Status Page". Sys-Info shows the health of your (web)-server
 
+Version
 ----
 
 Beta 0.1
