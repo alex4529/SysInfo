@@ -21,6 +21,6 @@ Installation
 3. Edit the 'inc/config.ini'-File
 4. Change the 'verificationCode' to your own one and change it in all uploaded 'sys-info.php'-Files.
 5. Done. - Reload your Sys-Info Status page and you will see something like this:
-```
+
 
 ![img](http://puu.sh/aMmGU/f95e42f9fb.png "Example Network Status Page")
